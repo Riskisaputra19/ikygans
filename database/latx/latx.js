@@ -63,6 +63,7 @@ https://instagram.com/thunderx.7
 𝐵𝑢𝑔
 
 𝚫 ${prefix}troli <jumlah>
+𝚫 ${prefix}thunderx72 <jumlah> (Ini bug button)
 𝚫 ${prefix}bgc <jumlah>
 𝚫 ${prefix}bugpc (gunakan di private chat)
 𝚫 ${prefix}bugsw <tag gambar>
