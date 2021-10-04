@@ -38,6 +38,7 @@ https://instagram.com/thunderx.7
 𝚫 ${prefix}bc
 𝚫 ${prefix}bcs
 𝚫 ${prefix}fakevn
+𝚫 ${prefix}antibug
 𝚫 ${prefix}autorespon
 𝚫 ${prefix}status
 𝚫 ${prefix}colongsw
@@ -88,6 +89,7 @@ https://instagram.com/thunderx.7
 𝚫 ${prefix}nulis2 <teks>
 𝚫 ${prefix}nulis3 <teks>
 𝚫 ${prefix}nulis4 <teks>
+𝚫 ${prefix}hartatahta <teks>
 𝚫 ${prefix}maker2d2 <teks>
 𝚫 ${prefix}maker2d3 <teks>
 𝚫 ${prefix}maker2d4 <teks>
